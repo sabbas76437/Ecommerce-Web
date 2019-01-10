@@ -1,0 +1,241 @@
+body{
+    /*background-image: url("../images/aq.jpg");*/
+  <!--background-repeat: none; --> 
+    
+
+}
+.container {
+    /*border: 1px solid red;*/
+    text-align: center;
+    display: inline-block;
+    /*box-shadow: 10px 10px 10px;*/
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 150px;
+   /* background-color: maroon; */
+      
+}
+.medil{
+    text-decoration: inherit;
+    font-family:fantasy,serif;
+    color: maroon;
+    margin-bottom: -60px;
+    margin-top: 15px;
+    padding-left: 130px;
+    padding-top: 20px;
+    font-size: 25pt;
+    
+        
+}
+.med img{
+    margin-top: -60px;
+    margin-bottom: -40px;
+    padding-left: 840px;
+}
+.container img{
+   
+    padding-right: 70px;
+    margin-top: -10px;
+    margin-bottom: 1px;
+    
+}
+.mak{
+   /* background-color: maroon;*/
+    
+}
+.body{
+   word-wrap: break-word;
+    font-family: georgia, times, serif;
+    padding-right: 20px;
+    font-size: 25px;
+    line-height: 1;
+      color: maroon;  
+    
+}
+
+
+.head h1{
+    
+    font-family:sans-serif; 
+     font-style:  normal;
+    color: black;
+    margin-top: -50px;
+    margin-bottom: 2px;
+    font-size: 35pt;
+    margin-bottom: 10px;
+    padding-left: 350px; 
+    
+}
+
+.head h3{
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+/*.head {
+    border: 1px solid red;
+    display: inline-block;
+    box-shadow: 10px 10px 10px;
+    width: 80%;
+    margin-left: 150px;
+}*/
+
+/*This is for menu*/
+
+.head ul li {
+
+
+    float: left;
+    margin-left: 95px;
+    list-style: none;
+    color: maroon;
+}
+
+.head ul {
+
+    margin-left:200px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+}
+
+.body ul {
+    
+    margin-left: 200px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+}
+
+.body ul li a {
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    padding-right: 20px;
+    font-size: 25px;
+    line-height: 1;
+      color: maroon;
+ 
+}
+
+
+.header1 ul li a {
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    font-size: 25px;
+    line-height: 1;
+      color: maroon;
+  
+}
+
+
+
+
+.head ul li a {
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    font-size: 25px;
+    line-height: 1;
+      color: maroon;
+   
+   
+   
+}
+
+.head ul li a:hover {
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    font-size: 32px;
+    line-height: 1;
+      color: maroon;
+    
+}
+
+
+
+
+/*this is for social*/
+.social{
+display: inline-block;
+position: fixed;
+    
+}
+
+.social ul li{
+
+    list-style: none;
+     padding-bottom: 70px;
+}
+.social a{
+    text-decoration: none;
+display: inline-block;
+position: fixed;
+   
+    
+}
+.footer ul li {
+
+
+    float: left;
+    margin-left: 95px;
+    list-style: none;
+    color: white;
+}
+
+.footer ul {
+
+    margin-left:200px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+
+}
+
+.footer img{
+     padding-left: 180px;
+    margin-top: -20px;
+    margin-bottom: 2px;
+color: white;
+}
+
+
+.footer ul li {
+
+
+    float: left;
+    margin-left: 95px;
+    list-style: none;
+    color: white;
+}
+
+.footer ul {
+
+    margin-left:200px;
+    padding-top: 50px;
+    padding-bottom: 60px;
+    color: white;
+
+}
+
+.footer ul li a {
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    font-size: 25px;
+    line-height: 1;
+      color: white;
+    
+   padding-left: 80px;
+   
+   
+}
+
+.footer{
+    background-color: maroon;
+    text-decoration-color: white;
+    word-wrap: break-word;
+    font-family: georgia, times, serif;
+    font-size: 25px;
+    line-height: 1;
+      color: white;
+    
+  
+  
+}
